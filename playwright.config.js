@@ -7,7 +7,7 @@ module.exports = defineConfig({
     timeout: 5000
   },
   username: 'tinapatil879@gmail.com',
-  password: 'TinaPatil879@',
+  password: 'adnl@26May2023',
   
   retries: 2,
  
